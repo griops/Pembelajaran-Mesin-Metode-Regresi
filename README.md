@@ -1,7 +1,7 @@
 # Pembelajaran-Mesin-Metode-Regresi
 Merupakan Program Sederhana Untuk Melakukan Prediksi Berdasarkan Dataset Training dengan Metode Regresi Linier
 
-Untuk penjelasan yang lebih lengkap silahkan membuka video berikut : ().
+Untuk penjelasan yang lebih lengkap silahkan membuka video berikut : https://youtu.be/QnApx4KLckc
 
 Penjelasan singkat bisa dilihat di bagian komentar program: tubes_regresi_kelompok_9.py.
 Penjelasan umum dapat dibaca di file readme ini.
