@@ -10,6 +10,7 @@ Kami melakukan prediksi terhadap data daya tenaga mesin mobil (hoursepower) terh
 Kami menggunakan dataset yang diimport dari vega (https://github.com/altair-viz/vega_datasets)
 
 Overview Regresi Linier 
+
 Regresi Linier merupakan suatu model statistik yang umum dan paling sederhana dalam Machine Learning. Digunakan untuk melakukan prediksi dengan cara supervised learning. Regresi Linier hanya bisa digunakan untuk data yang bersifat interval dan ratio yang biasanya bersifat diskrit dan kontinu, dan merupakan analisis bivariate dan multivariate.
 
 Pada kelompok kami menggunakan analisis bivariate atau korelasi antara 2 variabel.
@@ -18,9 +19,11 @@ Dimana salah satunya adalah variabel independen (x) variabel utama yang mungkin 
 x:= Horsepower (HP) y:= Waktu Akselerasi (s)
 
 Overview Colab 
+
 Colab merupakan IDE bebrbasis cloud dari google. Google colab cocok digunakan untuk pemrograman python dan dimana kita tidak menjalankan  komputasi yang berat di device kita, tapi semuanya dilakukan di cloud, kita hanya membutuhkan koneksi internet saja.
 
 Overview Scikit 
+
 Scikit-learn merupakan open source machine learning library menyediakan berbagai macam machine learning dengan bahasa python yang mendukung supervised and unsupervised learning.
 
 
@@ -39,6 +42,6 @@ Kekurangan:
 - Variabel yang digunakan terbatas
 
 
-- Laily Ade Oktaviana         - 2101201026
-- Naufal Hanan Lutfianto      - 2101201030
-- Gregorius Pradana Satriawan - 2101201041
+Laily Ade Oktaviana         - 2101201026
+Naufal Hanan Lutfianto      - 2101201030
+Gregorius Pradana Satriawan - 2101201041
