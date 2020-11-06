@@ -43,5 +43,7 @@ Kekurangan:
 
 
 Laily Ade Oktaviana         - 2101201026
+
 Naufal Hanan Lutfianto      - 2101201030
+
 Gregorius Pradana Satriawan - 2101201041
