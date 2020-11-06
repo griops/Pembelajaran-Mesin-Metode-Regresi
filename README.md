@@ -20,7 +20,7 @@ x:= Horsepower (HP) y:= Waktu Akselerasi (s)
 
 Overview Colab 
 
-Colab merupakan IDE bebrbasis cloud dari google. Google colab cocok digunakan untuk pemrograman python dan dimana kita tidak menjalankan  komputasi yang berat di device kita, tapi semuanya dilakukan di cloud, kita hanya membutuhkan koneksi internet saja.
+Colab merupakan IDE berbasis cloud dari google. Google colab cocok digunakan untuk pemrograman python dan dimana kita tidak menjalankan  komputasi yang berat di device kita, tapi semuanya dilakukan di cloud, kita hanya membutuhkan koneksi internet saja.
 
 Overview Scikit 
 
