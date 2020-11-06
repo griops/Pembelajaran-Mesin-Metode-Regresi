@@ -37,10 +37,13 @@ Regresi Linier dapat digunakan untuk melakukan prediksi nilai dengan pola garis 
 Kelebihan:
 - Mudah diimplementasikan
 - Digunakan untuk memprediksi nilai numerik/ continous /data jenis interval dan ratio
+
+
 Kekurangan:
 - Tidak dapat digunakan bila relasi antara variabel independen dan dependen tidak linier atau korelasinya rendah
 - Variabel yang digunakan terbatas
 
+----------------------------------------------
 
 Laily Ade Oktaviana         - 2101201026
 
